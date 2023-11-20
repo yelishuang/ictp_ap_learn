@@ -1,2 +1,2 @@
-空
+this is s learn_git file.
 
